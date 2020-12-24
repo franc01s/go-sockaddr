@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	sockaddr "github.com/hashicorp/go-sockaddr"
+	sockaddr "github.com/franc01s/go-sockaddr"
 )
 
 func boolEnvVar(envvar string, emptyDefault bool) bool {

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	sockaddr "github.com/hashicorp/go-sockaddr"
+	sockaddr "github.com/franc01s/go-sockaddr"
 )
 
 // ipv6HostMask is an unexported big.Int representing a /128 IPv6 address

@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"testing"
 
-	sockaddr "github.com/hashicorp/go-sockaddr"
+	sockaddr "github.com/franc01s/go-sockaddr"
 )
 
 const (

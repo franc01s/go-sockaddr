@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/hashicorp/errwrap"
-	sockaddr "github.com/hashicorp/go-sockaddr"
+	sockaddr "github.com/franc01s/go-sockaddr"
 	"github.com/mitchellh/cli"
 	"github.com/ryanuber/columnize"
 )

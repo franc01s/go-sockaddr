@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/hashicorp/errwrap"
-	"github.com/hashicorp/go-sockaddr/template"
+	"github.com/franc01s/go-sockaddr/template"
 	"github.com/mitchellh/cli"
 )
 

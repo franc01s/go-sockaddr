@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/hashicorp/go-sockaddr"
+	"github.com/franc01s/go-sockaddr"
 )
 
 // TODO(sean@): Either extend this test to include IPv6Addr and UnixSock, or

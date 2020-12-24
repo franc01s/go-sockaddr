@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/hashicorp/go-sockaddr"
+	"github.com/franc01s/go-sockaddr"
 )
 
 func TestSockAddr_IPAddr_CmpAddress(t *testing.T) {

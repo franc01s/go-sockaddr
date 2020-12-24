@@ -3,7 +3,7 @@ package sockaddr_test
 import (
 	"testing"
 
-	sockaddr "github.com/hashicorp/go-sockaddr"
+	sockaddr "github.com/franc01s/go-sockaddr"
 )
 
 func TestIfAttr_net(t *testing.T) {

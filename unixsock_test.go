@@ -3,7 +3,7 @@ package sockaddr_test
 import (
 	"testing"
 
-	sockaddr "github.com/hashicorp/go-sockaddr"
+	sockaddr "github.com/franc01s/go-sockaddr"
 )
 
 func TestUnixSock_impl_SockAddr(t *testing.T) {
